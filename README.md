@@ -12,7 +12,7 @@ If you think something needs to be re-defined, please forks this repo and send a
 
 5. **No general career advice.** - Any career advice post must contain questions and/or discussions that notably benefit from the participation of aspiring or professional software engineers.
 
-6. **No spamming.** - Don't spam with the same content over and over. Also don't respond to a post with a quote in a new post. Spam will result in ban.
+6. **No spamming.** - Don't spam with the same content over and over. Also don't respond to a post with a quote in a new post or use the hashtag #news. Spam will result in ban.
 
 7. **No memes.** - Although we love memes, we want to have a community of serious discourse. Find another appropriate community for memes.
 
