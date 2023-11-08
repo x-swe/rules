@@ -4,7 +4,7 @@ If you think something needs to be re-defined, please forks this repo and send a
 
 1. **Be kind and respectful.** - This will all be way more fun if everyone is nice to each other. You can disagree on something while not making it personal.
 
-2. **Stick to the topic in posts.** - This is a community for Software Engineering. For anything else, please post in another appropriate community.
+2. **Stick to the topic in posts.** - This is a community for Software Engineering. For anything else, please post in another appropriate community. Also don't use non-relevant hashtags in posts.
 
 3. **No ads/self-promotions/promotions.** - Promote meaningful content, not products. Our rule: No ads, self-promo, or other kinds of promotions in this community. Exceptions are OSS/FOSS projects.
 
