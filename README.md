@@ -6,9 +6,9 @@ If you think something needs to be re-defined, please forks this repo and send a
 
 2. **Stick to the topic in posts.** - This is a community for Software Engineering. For anything else, please post in another appropriate community. Also don't use non-relevant hashtags in posts.
 
-3. **No ads/self-promotions/promotions.** - Promote meaningful content, not products. Our rule: No ads, self-promo, or other kinds of promotions in this community. Exceptions are OSS/FOSS projects.
+3. **Promote meaningful content, not products.** - No ads, self-promo, or other kinds of promotions. OSS/FOSS projects are excepted. No use of URL shorteners.
 
-4. **No posts with links to content that is hard to access.** - Everyone should be able to access the content without any restriction and without websites with annoying popups.
+4. **No qoute posting.** - Copying a link to your post and publishing it here is not allowed. Make a post in the community, and click: "Also share with followers" it provides more reach.
 
 5. **No general career advice.** - Any career advice post must contain questions and/or discussions that notably benefit from the participation of aspiring or professional software engineers.
 
