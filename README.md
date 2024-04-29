@@ -23,4 +23,4 @@ If you think something needs to be re-defined, please forks this repo and send a
 
 8. **No posts in languages other than English.** - The only language that should be used here is English. And that includes links to resources as well.
 
-9. **No low-effort posts.** - For example, no posts with bare links/reposts without containing any additional and insightful comment/description. Single-line posts that don't encourage discussion are also considered low-effort.
+9. **No low-effort posts.** - For example, no posts with bare links/reposts without added insightful comment/description. Single-line posts not encouraging discussion are also low-effort.
