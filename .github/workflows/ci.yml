@@ -21,4 +21,3 @@ jobs:
 
       - name: Run Rules Checker
         run: python rules_checker.py README.md
-        working-directory: ../../
