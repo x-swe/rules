@@ -1,0 +1,24 @@
+name: Rules Check
+
+on:
+  pull_request:
+    branches:
+      - master
+
+jobs:
+  markdown_check_job:
+    name: Check Markdown File
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.x"
+
+      - name: Run Rules Checker
+        run: python rules_checker.py README.md
+        working-directory: ../../
