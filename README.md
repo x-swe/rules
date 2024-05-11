@@ -13,7 +13,7 @@ If you think something needs to be re-defined, please forks this repo and send a
 
 3. **Promote meaningful content, not products.** - No ads, self-promo, or other kinds of promotions. OSS/FOSS projects are excepted. No use of URL shorteners.
 
-4. **No qoute posting.** - Copying a link to your post and publishing it here is not allowed. Make a post in the community, and click: "Also share with followers" it provides more reach.
+4. **No qoute posting.** - Copying a link to your testing with a lot longer text here post and publishing it here is not allowed. Make a post in the community, and click: "Also share with followers" it provides more reach.
 
 5. **No general career advice.** - Any career advice post must contain questions and/or discussions that notably benefit from the participation of aspiring or professional software engineers.
 
