@@ -11,7 +11,7 @@ If you think something needs to be re-defined, please forks this repo and send a
 
 2. **Stick to the topic in posts.** - This is a community for Software Engineering. For anything else, please post in another appropriate community. Also don't use non-relevant hashtags in posts.
 
-3. **Promote only meaningful content.** - No ads, self-promo, or other kinds of promotions. OSS/FOSS projects are excepted. No use of URL shorteners.
+3. **Promote only meaningful content.** - No ads, self-promo, or other kinds of promotions if not partnered with us. OSS/FOSS projects are excepted. No use of URL shorteners.
 
 4. **No qoute posting.** - Don't paste your post link here, create a community post and select "Also share with followers" for better reach. Avoid replying to posts with new quote posts.
 
